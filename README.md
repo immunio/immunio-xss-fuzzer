@@ -1,2 +1,2 @@
 # immunio-fuzzer
-Fuzzer for immunio
+XSS Fuzzer for Zero False Positive XSS Detection
